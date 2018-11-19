@@ -534,7 +534,7 @@ HOST-SUFFIX,ls.apple.com,馃崅 Domestic
 HOST-SUFFIX,fonts.googleapis.com,馃崅 Domestic
 HOST-SUFFIX,fonts.gstatic.com,馃崅 Domestic
 
-// REJECT2000
+# REJECT2000
 DOMAIN,m.yap.yahoo.com,REJECT
 DOMAIN,geo.yahoo.com,REJECT
 DOMAIN,doubleplay-conf-yql.media.yahoo.com,REJECT
